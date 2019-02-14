@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!--
+ *@AUTHOR:Prachi
+ *@DATE:02-03-2016
+ *@DESCRIPTION: messages
+ * 
+-->
+        <!--  Common Messages -->
+    <M101>{1} has been successfully registered!.</M101>
+    <M102>There is some technical error.</M102>
+    <M103>There is some exception error.</M103>
+    <M104>Invalid email address or password.</M104>
+    <M105>You have entered an invalid old password</M105>
+    <M106>Password Has Been Changed Successfully.</M106>
+    <M107>Logged out successfully.</M107>
+    <M108>Logged In Successfully.</M108>
+    <M109>Profile updated successfully.</M109>
+    <M110>No user exists with the given email address.</M110>
+    <M111>User is inactive.</M111>
+    <M112>Forgot password link sent successfully.</M112>
+    <M113>{1} has been successfully {2}.</M113>
+    <M114>Reset Token has been expired!</M114>
+    <M115>Permission Saved Successfully.</M115>
+    <M116>Please fill the fields mark in red.</M116>
+    <M117>Deleted Successfully.</M117>
+    <M118>Unable to delete due to some error.</M118>    
+    <M119>Activated.</M119>
+    <M120>Deactivated.</M120>
+    <M121>No Data Found</M121>
+    <M122>You cannot {1} system defined {2}</M122>
+    <M123>A template already created for this event for the same language.</M123>    
+    <M124>Logged Out Successfully.</M124>
+    <M125>Unable to logged out.</M125>
+    <M126>A same page already created for this url.</M126>
+    <M127>Please try again.</M127>
+    <M128>{1} already exist in {2}.</M128>
+    <M129>{1} already exist.</M129>    
+    <M130>Subscriber status can not be set as not-verified again.</M130>
+    <M131>No device found.</M131>
+    <M132>Successfully Sent.</M132>
+    <M133>Attachment removed successfully.</M133>
+    <M134>Template has been Successfully saved.</M134>
+    <M135>Reset Token has already been used.</M135>
+    <M136>You have entered an invalid code.</M136>
+    <M137>Congratulations!!! Your account has been sucessfully verified.</M137>
+    <M138>User has already been verified.</M138>
+    <M139>A verification mail has been sent on your registered email address.</M139>
+    <M140>Verification code has been sent on your registered email address.</M140>
+    <M141>Verification code has been sent on your registered mobile number.</M141>
+    <!--  API Messages -->
+    <M1001>Device has been successfully registered!.</M1001>
+    <M1002>Device Token has been successfully updated!.</M1002>
+    
+    
+</root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EmailTemplates>
+  <module name="REGISTRATION">   
+     <NodeId id="SUBJECT">User Registration</NodeId>
+     <NodeId id="BODY">
+      <![CDATA[
+             <table>
+                <tr>	<td>	Dear <b>{1}</b>, <br/><br/> </td>  </tr>
+                <tr>    <td>  Click Here to generate new password.  </td>  </tr>
+             </table>]]>
+    </NodeId>    
+  </module>
+  
+  <module name="950001">   
+     <NodeId id="SUBJECT">Forgot Password</NodeId>
+     <NodeId id="BODY">
+      <![CDATA[
+             <table>
+                <tr>	<td>Dear [[FIRSTNAME]], <br/><br/> </td>  </tr>
+                <tr>    <td> Click the link to create a new password. <a href="[[LINK]]"> Click Here</a>  </td>  </tr>
+             </table>]]>
+    </NodeId>    
+  </module>
+  
+</EmailTemplates>
